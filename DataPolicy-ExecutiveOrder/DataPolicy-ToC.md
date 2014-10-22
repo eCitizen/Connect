@@ -1,6 +1,6 @@
 City of Boston Data Policy and Guidance
 
-Section 1. Governance and Management of Municipal Data
+[Section 1. Governance and Management of Municipal Data](https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-1-governance-and-management-of-municipal-data)
 
 Section 1.1. Scope
 
