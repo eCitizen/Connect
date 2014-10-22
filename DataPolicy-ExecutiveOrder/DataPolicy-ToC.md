@@ -52,7 +52,7 @@ City of Boston Data Policy and Guidance
 
 [Section 4.4 Compliance with access and disclosure rules] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-44-compliance-with-access-and-disclosure-rules)
 
-[Section 5 Definition] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-5-definition)
+[Section 5 Definitions] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-5-definition)
 
 [Section 5.1 Open Data] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-51-open-data)
 
