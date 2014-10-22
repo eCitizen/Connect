@@ -28,26 +28,25 @@ NOW THEREFORE, pursuant to the authority vested in me as Chief Executive Officer
 
 ### Section 2a
 
-
 a) The Open Data Policy shall include standards for the format and publishing of such data and guidance on accessibility, re-use and minimum documentation for such data;  
+
 ### Section 2b
 
 b) The Open Data Policy shall include guidance for departments on the classification of their data sets as public or protected and a method to report such classification to the CIO.  All departments shall publish their public record data sets on the City of Boston open data portal to the extent such data sets are determined to be appropriate for public disclosure, and/or if appropriate, may publish their public record data set through other methods, in accordance with API, format, accessibility and other guidance of the Open Data Policy.
 
 ## Section 3
 
-3. The City of Boston CIO, in consultation with City departments, is authorized and directed to issue a City of Boston Protected Data Policy applicable to non-public data, such as health data, educational records and other protected data;  
+The City of Boston CIO, in consultation with City departments, is authorized and directed to issue a City of Boston Protected Data Policy applicable to non-public data, such as health data, educational records and other protected data;  
+
 ### Section 3a
 
-
-a) The policy shall provide guidance on the management of Protected Data, including guidance on security and other controls to safeguard Protected Data, including appropriate Identity and Access Management and good practice guidelines for compliance with legal or other rules requiring the sharing of Protected Data with authorized parties upon the grant of consent, by operation of law or when otherwise so required;
+The policy shall provide guidance on the management of Protected Data, including guidance on security and other controls to safeguard Protected Data, including appropriate Identity and Access Management and good practice guidelines for compliance with legal or other rules requiring the sharing of Protected Data with authorized parties upon the grant of consent, by operation of law or when otherwise so required;
 
 ### Section 3b
 
-b) The policy shall provide a method to ensure approval by the Corporation Counsel of the City of Boston to confirm Protected Data is only disclosed in accordance with the Policy.
+The policy shall provide a method to ensure approval by the Corporation Counsel of the City of Boston to confirm Protected Data is only disclosed in accordance with the Policy.
 
 ## Section 4
-
 
 4. This Executive Order is not intended to diminish or alter the rights or obligations afforded under the Massachusetts Public Records Law, Chapter 66, Section 10 of the Massachusetts General Laws and the exemptions under Chapter 4, Section 7(26).  Additionally, this Executive Order is intended to be interpreted consistent with Federal, Commonwealth, and local laws and regulations regarding the privacy, confidentiality, and security of data.  Nothing herein shall authorize the disclosure of data that is confidential, private, exempt or otherwise legally protected unless such disclosure is authorized by law and approved by the Corporation Counsel of the City of Boston. 
 
