@@ -1,8 +1,15 @@
 City of Boston Data Policy and Guidance
 
-Governance and Management of Municipal Data
+# Section 1. Governance and Management of Municipal Data
 
-Scope
+## Section 1.1. Scope
+
+
+[Authorized by executive order] 
+
+[Basic scheme: 1. Classification as Public or Protected. 2.CIO determines open data and publishing priority of public records 3. Legal Counsel approves] 
+
+
 
 Application
 
