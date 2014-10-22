@@ -113,7 +113,7 @@ Open Data Publishing Priority
 [Grant of consent to share protected data]
 {Section 3a} 
 
-# Section 5 Definition
+# Section 5 Definitions
 
 ## Section 5.1 Open Data
 
