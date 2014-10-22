@@ -4,12 +4,51 @@ City of Boston Data Policy and Guidance
 
 ## Section 1.1. Scope
 
-
 [Authorized by executive order] 
 
 [Basic scheme: 1. Classification as Public or Protected. 2.CIO determines open data and publishing priority of public records 3. Legal Counsel approves] 
 
+## Section 1.2 Application
 
+Consult with departments  
+{Section 2 & 3}
+
+Consult with: Experts, thought leaders, key stakeholders, implementations 
+{Section 2 & 3}
+
+Explore options
+
+Implementations
+
+## Section 1.3 Issue and Maintain
+
+{Sections 2 & 3)
+
+# Section 2. Workflow and Approval Chains
+
+## 2.1 City of Boston Data Classification
+
+Ch 66 Assessment 	
+[Tied to “public” wording]
+[Check list: ask if any exception to Chapter 66 applies. If no, then data is classified as public. If yes, then data is classified as protected.]
+
+## 2.2 Classification as Protected Data
+
+[rules that apply to data classified as protected data] 
+
+### 2.2.1 Apply protected data guidance 
+
+[Departments must secure and manage protected data in accordance with applicable rules] 
+
+[Do not change, diminish, or alter rights or obligations]
+{Section 4}
+
+### 2.2.2. CIO Approves Technology 
+
+### 2.2.3 Approval by Corporation Council
+
+[ Corporation Council to “confirm any quote disclosure” accords with policy and law]
+{Section 3b} 	
 
 Application
 
@@ -67,7 +106,9 @@ Protected Data
 
 Disclosure
 
-Public Records
+Public Records
+
+
 
 
 
