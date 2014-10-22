@@ -4,9 +4,9 @@ City of Boston Data Policy and Guidance
 
 Section 1.1. Scope
 
-Section 1.2 Application
+[Section 1.2 Application](https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-12-application)
 
-Section 1.3 Issue and Maintain
+[Section 1.3 Issue and Maintain](https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-13-issue-and-maintain)
 
 Section 2. Workflow and Approval Chains
 
