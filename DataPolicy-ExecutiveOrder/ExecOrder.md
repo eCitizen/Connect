@@ -28,6 +28,7 @@ NOW THEREFORE, pursuant to the authority vested in me as Chief Executive Officer
 
 ### Section 2a
 
+
 a) The Open Data Policy shall include standards for the format and publishing of such data and guidance on accessibility, re-use and minimum documentation for such data;  
 ### Section 2b
 
@@ -38,13 +39,15 @@ b) The Open Data Policy shall include guidance for departments on the classifica
 3. The City of Boston CIO, in consultation with City departments, is authorized and directed to issue a City of Boston Protected Data Policy applicable to non-public data, such as health data, educational records and other protected data;  
 ### Section 3a
 
-.a) The policy shall provide guidance on the management of Protected Data, including guidance on security and other controls to safeguard Protected Data, including appropriate Identity and Access Management and good practice guidelines for compliance with legal or other rules requiring the sharing of Protected Data with authorized parties upon the grant of consent, by operation of law or when otherwise so required;
+
+a) The policy shall provide guidance on the management of Protected Data, including guidance on security and other controls to safeguard Protected Data, including appropriate Identity and Access Management and good practice guidelines for compliance with legal or other rules requiring the sharing of Protected Data with authorized parties upon the grant of consent, by operation of law or when otherwise so required;
 
 ### Section 3b
 
 b) The policy shall provide a method to ensure approval by the Corporation Counsel of the City of Boston to confirm Protected Data is only disclosed in accordance with the Policy.
 
 ## Section 4
+
 
 4. This Executive Order is not intended to diminish or alter the rights or obligations afforded under the Massachusetts Public Records Law, Chapter 66, Section 10 of the Massachusetts General Laws and the exemptions under Chapter 4, Section 7(26).  Additionally, this Executive Order is intended to be interpreted consistent with Federal, Commonwealth, and local laws and regulations regarding the privacy, confidentiality, and security of data.  Nothing herein shall authorize the disclosure of data that is confidential, private, exempt or otherwise legally protected unless such disclosure is authorized by law and approved by the Corporation Counsel of the City of Boston. 
 
@@ -53,5 +56,6 @@ b) The policy shall provide a method to ensure approval by the Corporation Couns
 5. This Executive Order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the City of Boston, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 ## Section 6 
+
 
 6. The City of Boston CIO is authorized and directed to regularly consult with experts, thought leaders and key stakeholders for the purpose of exploring options for the implementation of policies and practices arising under or related to this Executive Order.
