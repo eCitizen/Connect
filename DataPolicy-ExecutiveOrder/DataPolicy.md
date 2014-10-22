@@ -66,6 +66,20 @@ Open Data Publishing Priority
 
 # Section 3 City of Boston Open Data Policy 
 
+## Section 3.1 Scope
+
+{Section 2a & 2b}
+[Applies to data that have been classified as public record ]
+
+## 3.2 Standards
+
+## 3.2.1 Format 
+
+[API- Reference cities APIS ]
+
+
+
+
 
 Application
 
