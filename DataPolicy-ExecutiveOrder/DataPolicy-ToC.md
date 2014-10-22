@@ -40,24 +40,24 @@ City of Boston Data Policy and Guidance
 
 [Section 3.2.4 Reusability] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-324-reusability)
 
-[Section 3.2.5 Documentation
+[Section 3.2.5 Documentation] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-325-documentation)
 
-[Section 4 City of Boston Protected Data Policy
+[Section 4 City of Boston Protected Data Policy] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-4-city-of-boston-protected-data-policy)
 
-[Section 4.1 Scope
+[Section 4.1 Scope] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-41-scope)
 
-[Section 4.2 Guidance on management of protected data
+[Section 4.2 Guidance on management of protected data] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-42-guidance-on-management-of-protected-data)
 
-[Section 4.3 Security and Controls
+[Section 4.3 Security and Controls] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-43-security-and-controls)
 
-[Section 4.4 Compliance with access and disclosure rules
+[Section 4.4 Compliance with access and disclosure rules] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-44-compliance-with-access-and-disclosure-rules)
 
-[Section 5 Definition
+[Section 5 Definition] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-5-definition)
 
-[Section 5.1 Open Data
+[Section 5.1 Open Data] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-51-open-data)
 
-[Section 5.2 Protected Data
+[Section 5.2 Protected Data] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-52-protected-data)
 
-[Section 5.3 Disclosure
+[Section 5.3 Disclosure] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-53-disclosure)
 
-[Section 5.4 Public Records
+[Section 5.4 Public Records] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-54-public-records)
