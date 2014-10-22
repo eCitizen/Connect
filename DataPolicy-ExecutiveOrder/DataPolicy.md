@@ -50,6 +50,23 @@ Ch 66 Assessment
 [ Corporation Council to “confirm any quote disclosure” accords with policy and law]
 {Section 3b} 	
 
+## 2.3 Classification as Open Data 
+
+### 2.3.1 Open Data Publishing Priority
+
+Open Data Publishing Priority
+	[Note: department input is important factor for establishing publishing priority]
+	[CIO determines whether data is “appropriate for publish disclosure”]
+	{Section 2b}
+	[Note: CIO may refer to Corporate Counsel Legal Issues for Publishing] 
+[Apply public records and open data publishing guidance] 
+{Section 2b}
+
+### 2.3.2 Apply Open Data Standards Guidance
+
+# Section 3 City of Boston Open Data Policy 
+
+
 Application
 
 Issue and maintain
