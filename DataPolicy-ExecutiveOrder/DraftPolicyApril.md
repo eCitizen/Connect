@@ -40,7 +40,7 @@ The Open Data Manager shall maintain a running manifest [m][n][o][p][q] of all d
 
 ## Controlled Data Policy
 
-The CIO and the Corporation Counsel will develop a Controlled Data Policy that complies with Federal, Commonwealth, and local laws regarding privacy, confidentiality and security of data.  This policy is intended to cover authorized access to and/or required disclosure of data that is subject to a legal restriction, protection or other control that prevents its open, public distribution.   The City’s development and implementation of a Controlled Data Policy will be deliberate and measured to ensure protection against data breaches and improper disclosures of sensitive data. [r] Where appropriate, initial controlled data sharing will be on a pilot basis before implementation of a comprehensive data sharing agreement.    
+The CIO and the Corporation Counsel will develop a Controlled Data Policy that complies with Federal, Commonwealth, and local laws regarding privacy, confidentiality and security of data.  This policy is intended to cover authorized access to and/or required disclosure of data that is subject to a legal restriction, protection or other control that prevents its open, public distribution.   The City’s development and implementation of a Controlled Data Policy will be deliberate and measured to ensure protection against data breaches and improper disclosures of sensitive data [r]. Where appropriate, initial controlled data sharing will be on a pilot basis before implementation of a comprehensive data sharing agreement.    
 
 ## Administrative Provisions
 
