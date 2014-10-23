@@ -74,23 +74,31 @@ This isn't a comment about the policy, but about a specific data set. Perhaps it
 #### [c]10:18 PM Apr 29
 For those wanting to read it: http://www.cityofboston.gov/news/default.aspx?id=6589
 
-#### [d]I would like to take a moment to commend and thank Curt Savoie for his ongoing work to open data in the City of Boston. He has been an excellent resource and ally to us at Code for Boston.
+#### [d] 8:51 PM Apr 8, 2014
+I would like to take a moment to commend and thank Curt Savoie for his ongoing work to open data in the City of Boston. He has been an excellent resource and ally to us at Code for Boston.
 
-[e]Much agreed!
+#### [e] 9:23 PM Apr 15, 2014
+Much agreed!
 
-[f]"responsible for publication" > What enforcement authority does the Open Data Manager have in opening these datasets? If someone is resistant to opening public data, what is the resolution process?
+#### [f] 8:46 PM Apr 8, 2014
+"responsible for publication" > What enforcement authority does the Open Data Manager have in opening these datasets? If someone is resistant to opening public data, what is the resolution process?
 
-[g]It'd be great to somewhat specify how they will be identified: "including but not limited to" community interest
+#### [g] 8:57 PM May 27
+It'd be great to somewhat specify how they will be identified: "including but not limited to" community interest
 
 Beyond low-hanging-fruit datasets that are easy to publish, it would be great to prioritize based on civic or business intentions for using data. It might make sense to add some language about collecting or soliciting interests, e.g. a web form/button on the data portal to request releases.
 
-[h]"shall identify Open Data" > This implies the data is already open. I might reword to "openable data" or "public data yet to be opened", or something with that spirit.
+#### [h] 8:47 PM Apr 8, 2014
+"shall identify Open Data" > This implies the data is already open. I might reword to "openable data" or "public data yet to be opened", or something with that spirit.
 
-[i]data.cityofboston.gov
+#### [i] 8:46 PM Apr 8, 2014
+data.cityofboston.gov
 
-[j]It'd be great to specifically require the Open Data Manager to work with the Procurement Office/Chief Procurement Officer to develop (where appropriate) contract provisions that promote open data policies. Chicago and San Francisco have requirements to that effect in their open data policies.
+#### [j] 8:57 PM May 27
+It'd be great to specifically require the Open Data Manager to work with the Procurement Office/Chief Procurement Officer to develop (where appropriate) contract provisions that promote open data policies. Chicago and San Francisco have requirements to that effect in their open data policies.
 
-[k]What are the relevant considerations for prioritization? I think there should be a process for the community to request data and be able to weigh in on priorities.
+#### [k] 9:49 PM May 1
+What are the relevant considerations for prioritization? I think there should be a process for the community to request data and be able to weigh in on priorities.
 
 [l]As it reads now, Corporation Counsel can modify approval if there is change, but there is no mechanism to inform them of changes. Understanding re-approval would not be a big deal often, would it be prudent to add a mechanism that informs them of substantial changes, such as the addition of certain fields of new information?
 
