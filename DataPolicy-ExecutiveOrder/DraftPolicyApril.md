@@ -100,21 +100,28 @@ It'd be great to specifically require the Open Data Manager to work with the Pro
 #### [k] 9:49 PM May 1
 What are the relevant considerations for prioritization? I think there should be a process for the community to request data and be able to weigh in on priorities.
 
-[l]As it reads now, Corporation Counsel can modify approval if there is change, but there is no mechanism to inform them of changes. Understanding re-approval would not be a big deal often, would it be prudent to add a mechanism that informs them of substantial changes, such as the addition of certain fields of new information?
+#### [l] 10:41 PM Apr 29
+As it reads now, Corporation Counsel can modify approval if there is change, but there is no mechanism to inform them of changes. Understanding re-approval would not be a big deal often, would it be prudent to add a mechanism that informs them of substantial changes, such as the addition of certain fields of new information?
 
-[m]Is it possible to publish an abridged version of this manifest publicly as well? It'd be good to know if data that I want made open has already been reviewed and been prohibited rather than making requests that get turned down repeatedly by multiple members of the public because nobody knows what's been reviewed already or not.
+#### [m] 11:13 AM Apr 9, 2014
+Is it possible to publish an abridged version of this manifest publicly as well? It'd be good to know if data that I want made open has already been reviewed and been prohibited rather than making requests that get turned down repeatedly by multiple members of the public because nobody knows what's been reviewed already or not.
 
-[n]All of the currently opened data is available at data.cityofboston.gov.
+#### [n] 11:09 AM Apr 10, 2014
+All of the currently opened data is available at data.cityofboston.gov.
 
-[o]Understood. My concern is for the rest of the manifest. Which data is "prohibited to be published", for example? The website won't tell me that.
+#### [o] 11:23 AM Apr 10, 2014
+Understood. My concern is for the rest of the manifest. Which data is "prohibited to be published", for example? The website won't tell me that.
 
-[p]A possible idea is to publish a list of data in the pipeline as well as a list of requests. Not sure what that would look like yet, but it may be a way for us to be clear about the process and prevent duplicate requests as well as inform about the decisions regarding publishing or not.
+#### [p] 11:45 AM Apr 10, 2014
+A possible idea is to publish a list of data in the pipeline as well as a list of requests. Not sure what that would look like yet, but it may be a way for us to be clear about the process and prevent duplicate requests as well as inform about the decisions regarding publishing or not.
 
-[q]According to the executive order, this policy may guide "classification of their [departments'] data sets as public or protected and a method to report such classification to the CIO." If opened, this list which could outline for people the "prohibited to be published"/protected datasets. 
+#### [q] 9:16 PM May 27
+According to the executive order, this policy may guide "classification of their [departments'] data sets as public or protected and a method to report such classification to the CIO." If opened, this list which could outline for people the "prohibited to be published"/protected datasets. 
 
 I second the idea that a summary what is protected could be useful, at least as a map of what data the City holds.
 
-[r]I want to encourage the development of a Controlled Data Policy that supports the anonymization and summarization of data. For example, the Metropolitan Area Planning Council released anonymous, aggregated vehicle inspection records (the MA Vehicle Census) that prevented identification of individuals through the data. Data was summarized to zip code areas and grid cells; individual records were not released, avoiding the pitfalls mentioned here: http://arstechnica.com/tech-policy/2009/09/your-secrets-live-online-in-databases-of-ruin/.
+#### [r]8:50 PM Apr 8, 2014
+I want to encourage the development of a Controlled Data Policy that supports the anonymization and summarization of data. For example, the Metropolitan Area Planning Council released anonymous, aggregated vehicle inspection records (the MA Vehicle Census) that prevented identification of individuals through the data. Data was summarized to zip code areas and grid cells; individual records were not released, avoiding the pitfalls mentioned here: http://arstechnica.com/tech-policy/2009/09/your-secrets-live-online-in-databases-of-ruin/.
 
 
 
