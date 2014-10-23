@@ -48,7 +48,9 @@ The authoritative source, as may be amended from time to time, of the current ve
 
 ### Applicability:
 
-#### Applicable Scope: This policy applies to the City of Boston Open Data Manager and to the City of Boston data owners, data custodians or other data stewards with respect to the collection, publication and maintenance of Open Data.
+#### Applicable Scope: 
+
+This policy applies to the City of Boston Open Data Manager and to the City of Boston data owners, data custodians or other data stewards with respect to the collection, publication and maintenance of Open Data.
 
 #### Applicable Period: This policy is effective upon publication by the City of Boston CIO and shall remain valid and effective unless and until it is amended, repealed or otherwise duly revoked.
 
