@@ -1,3 +1,5 @@
+https://docs.google.com/a/civics.com/document/d/11Wfpg4prY2DCmf6FUHQ3YHDThKCLsXhMP6Uj0zlP9pg/edit
+
 # Open Data Policy
 
 ## About the Policy
@@ -52,7 +54,9 @@ The authoritative source, as may be amended from time to time, of the current ve
 
 This policy applies to the City of Boston Open Data Manager and to the City of Boston data owners, data custodians or other data stewards with respect to the collection, publication and maintenance of Open Data.
 
-#### Applicable Period: This policy is effective upon publication by the City of Boston CIO and shall remain valid and effective unless and until it is amended, repealed or otherwise duly revoked.
+#### Applicable Period: 
+
+This policy is effective upon publication by the City of Boston CIO and shall remain valid and effective unless and until it is amended, repealed or otherwise duly revoked.
 
 ### Amendment:
 
