@@ -4,11 +4,11 @@ https://docs.google.com/a/civics.com/document/d/11Wfpg4prY2DCmf6FUHQ3YHDThKCLsXh
 
 ## About the Policy
 
-This policy is in effect under Executive Order of Mayor Martin J. Walsh: “An Order Relative to Open Data and Protected Data Sharing,” issued April 7, 2014.  
+This policy is in effect under Executive Order of Mayor Martin J. Walsh: “An Order Relative to Open Data and Protected Data Sharing [c] ,” issued April 7, 2014.  
 
 ## Open Data Manager
 
-The Open Data Manager of the City of Boston is responsible for publication of Open Data Sets in accordance with this Policy. The Open Data Manager shall identify Open Data of or held by the City of Boston and facilitate the preparation, loading, approval and publication of said data through the data.CityofBoston open data portal.
+The Open Data Manager [d][e] of the City of Boston is responsible for publication of Open Data Sets in accordance with this Policy. The Open Data Manager shall identify [g] Open Data [h] of or held by the City of Boston and facilitate the preparation, loading, approval and publication of said data through the data.CityofBoston open data portal.
 
 ### Standards and Formats
 
