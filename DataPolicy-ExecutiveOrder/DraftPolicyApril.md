@@ -8,11 +8,11 @@ This policy is in effect under Executive Order of Mayor Martin J. Walsh: “An O
 
 ## Open Data Manager
 
-The Open Data Manager [d][e] of the City of Boston is responsible for publication of Open Data Sets in accordance with this Policy. The Open Data Manager shall identify [g] Open Data [h] of or held by the City of Boston and facilitate the preparation, loading, approval and publication of said data through the data.CityofBoston open data portal.
+The Open Data Manager [d][e] of the City of Boston is responsible for publication of Open Data Sets in accordance with this Policy. The Open Data Manager shall identify [g] Open Data [h] of or held by the City of Boston and facilitate the preparation, loading, approval and publication of said data through the data. CityofBoston [i] open data portal.
 
 ### Standards and Formats
 
-The Open Data Manager shall use the open data portal and other sites or services as appropriate to publish and maintain guidance to City Departments and other stakeholders describing the relevant standards and formats used to structure and access data sets on the open data portal.  
+The Open Data Manager  shall use the open data portal and other sites or services as appropriate to publish and maintain guidance to City Departments and other stakeholders describing the relevant standards and formats used to structure and access data sets on the open data portal.  
 
 ### Interoperability and Access
 
@@ -20,7 +20,7 @@ To the extent practicable, the Open Data Manager shall also facilitate collabora
 
 ## City Departments
 
-Leadership and personnel of City Departments shall work with the Open Data Manager to publish all data that are public record unless a public policy, security, liability or other material objection exists. Data shall be published as soon as practicable and in order of priority based upon relevant considerations.
+Leadership and personnel of City Departments shall work with the Open Data Manager [j] to publish all data that are public record unless a public policy, security, liability or other material objection exists. Data shall be published as soon as practicable and in order of priority based upon relevant considerations [k].
 
 ## Staging and Phasing Publication of Open Data
 
@@ -32,15 +32,15 @@ The Corporation Counsel is responsible for determining whether publication of da
 
 ### Modifications to, Stipulations on or Revocations of Approvals
 
-The Corporation Counsel may approve publication of data subject to stipulations. Material change in the data or other change in circumstances that impacts the basis upon which approval was provided may result in modification of approvals by the Corporation Counsel, including but not limited to the addition of stipulations, the prohibition against publication of some of the data or otherwise.
+The Corporation Counsel may approve publication of data subject to stipulations. Material change in the data [l] or other change in circumstances that impacts the basis upon which approval was provided may result in modification of approvals by the Corporation Counsel, including but not limited to the addition of stipulations, the prohibition against publication of some of the data or otherwise.
 
 ### Open Data manifest
 
-The Open Data Manager shall maintain a running manifest of all data published, stipulations applicable to such data, if any, and other data that is in the process of preparation for approval and publication, or that has been prohibited to be published, and shall publish the contents of said manifest for internal access by authorized personnel of the City of Boston. The Open Data Manager shall also include the contact information of relevant data owners, data custodians or other data stewards with operational, programmatic or other lead responsibility for the data published.
+The Open Data Manager shall maintain a running manifest [m][n][o][p][q] of all data published, stipulations applicable to such data, if any, and other data that is in the process of preparation for approval and publication, or that has been prohibited to be published, and shall publish the contents of said manifest for internal access by authorized personnel of the City of Boston. The Open Data Manager shall also include the contact information of relevant data owners, data custodians or other data stewards with operational, programmatic or other lead responsibility for the data published.
 
 ## Controlled Data Policy
 
-The CIO and the Corporation Counsel will develop a Controlled Data Policy that complies with Federal, Commonwealth, and local laws regarding privacy, confidentiality and security of data.  This policy is intended to cover authorized access to and/or required disclosure of data that is subject to a legal restriction, protection or other control that prevents its open, public distribution.   The City’s development and implementation of a Controlled Data Policy will be deliberate and measured to ensure protection against data breaches and improper disclosures of sensitive data. Where appropriate, initial controlled data sharing will be on a pilot basis before implementation of a comprehensive data sharing agreement.    
+The CIO and the Corporation Counsel will develop a Controlled Data Policy that complies with Federal, Commonwealth, and local laws regarding privacy, confidentiality and security of data.  This policy is intended to cover authorized access to and/or required disclosure of data that is subject to a legal restriction, protection or other control that prevents its open, public distribution.   The City’s development and implementation of a Controlled Data Policy will be deliberate and measured to ensure protection against data breaches and improper disclosures of sensitive data. [r] Where appropriate, initial controlled data sharing will be on a pilot basis before implementation of a comprehensive data sharing agreement.    
 
 ## Administrative Provisions
 
