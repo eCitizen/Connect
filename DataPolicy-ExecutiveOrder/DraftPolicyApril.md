@@ -1,6 +1,6 @@
 https://docs.google.com/a/civics.com/document/d/11Wfpg4prY2DCmf6FUHQ3YHDThKCLsXhMP6Uj0zlP9pg/edit
 
-# Open Data Policy
+# Open [a][b] Data Policy
 
 ## About the Policy
 
