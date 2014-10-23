@@ -65,14 +65,16 @@ This policy may be amended, from time to time, by the City of Boston CIO.
 # Public Comments Received As of October 22, 2014
 
 
-### 7:26 AM Apr 10, 2014 
-[a]Open the Stenograph Record of Public Meetings of Boston City Council for hard of hearing folks ! The .sgstn StenoGraph StenoNote file released needs the additional file not yet released to interpret the .sgstn
+#### [a] 7:26 AM Apr 10, 2014
+Open the Stenograph Record of Public Meetings of Boston City Council for hard of hearing folks ! The .sgstn StenoGraph StenoNote file released needs the additional file not yet released to interpret the .sgstn
 
-[b]This isn't a comment about the policy, but about a specific data set. Perhaps it would be a good idea to include a clause somewhere about accessibility of the data, though I know the City ensures their web services are accessible.
+#### [b] 11:11 AM Apr 10, 2014
+This isn't a comment about the policy, but about a specific data set. Perhaps it would be a good idea to include a clause somewhere about accessibility of the data, though I know the City ensures their web services are accessible.
 
-[c]For those wanting to read it: http://www.cityofboston.gov/news/default.aspx?id=6589
+#### [c]10:18 PM Apr 29
+For those wanting to read it: http://www.cityofboston.gov/news/default.aspx?id=6589
 
-[d]I would like to take a moment to commend and thank Curt Savoie for his ongoing work to open data in the City of Boston. He has been an excellent resource and ally to us at Code for Boston.
+#### [d]I would like to take a moment to commend and thank Curt Savoie for his ongoing work to open data in the City of Boston. He has been an excellent resource and ally to us at Code for Boston.
 
 [e]Much agreed!
 
