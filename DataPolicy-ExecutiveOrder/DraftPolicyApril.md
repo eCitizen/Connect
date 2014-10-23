@@ -71,7 +71,7 @@ Open the Stenograph Record of Public Meetings of Boston City Council for hard of
 #### [b] 11:11 AM Apr 10, 2014
 This isn't a comment about the policy, but about a specific data set. Perhaps it would be a good idea to include a clause somewhere about accessibility of the data, though I know the City ensures their web services are accessible.
 
-#### [c]10:18 PM Apr 29
+#### [c] 10:18 PM Apr 29
 For those wanting to read it: http://www.cityofboston.gov/news/default.aspx?id=6589
 
 #### [d] 8:51 PM Apr 8, 2014
@@ -120,7 +120,7 @@ According to the executive order, this policy may guide "classification of their
 
 I second the idea that a summary what is protected could be useful, at least as a map of what data the City holds.
 
-#### [r]8:50 PM Apr 8, 2014
+#### [r] 8:50 PM Apr 8, 2014
 I want to encourage the development of a Controlled Data Policy that supports the anonymization and summarization of data. For example, the Metropolitan Area Planning Council released anonymous, aggregated vehicle inspection records (the MA Vehicle Census) that prevented identification of individuals through the data. Data was summarized to zip code areas and grid cells; individual records were not released, avoiding the pitfalls mentioned here: http://arstechnica.com/tech-policy/2009/09/your-secrets-live-online-in-databases-of-ruin/.
 
 
