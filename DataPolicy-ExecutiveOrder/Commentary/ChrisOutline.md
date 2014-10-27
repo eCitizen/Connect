@@ -6,8 +6,10 @@ Data Policy
 ([Section 2. CIO Determines open data and publishing priority of public records](https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-11-scope)) 
 [Section 2.2.2. CIO Approves Technology] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-222-cio-approves-technology)
 ## 2.2 Data Manager 
-### 2.2.1 Determining Standards & Formats
+### 2.2.1 Determining Standards & Formats 
+[Section 3.2 Standards] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-232-apply-open-data-standards-guidance)
 ### 2.2.2 Increasing Accessibility Through Documentation
+[Section 3.2.3 Accessibility {Section 2a} [508 compliance, UELMA]] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-323-accessibility)
 ### 2.2.3 Promoting on Interoperability
 ### 2.2.4 Maintaining the Data Manifest
 ## 2.3 City Departments 
@@ -17,8 +19,9 @@ Open Data Publishing Priority [Note: department input is important factor for es
 [Section 2.2.1 Apply protected data guidance [Departments must secure and manage protected data in accordance with applicable rules] [Do not change, diminish, or alter rights or obligations] {Section 4}] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-221-apply-protected-data-guidance)
 ### 2.3.2 Procurement Office
 ## 2.4 Corporation Counsel
+[Section 2.2.3 Approval by Corporation Council] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-223-approval-by-corporation-council)
 # 3. Open Data Policy
-## 3.1 Definition
+## 3.1 Definition [
 ## 3.2 Publication Process
 ### 3.2.1 Receiving Requests
 ### 3.2.2 Reviewing & Prioritizing Requests With Departments
