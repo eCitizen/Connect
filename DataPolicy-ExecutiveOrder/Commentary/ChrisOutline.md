@@ -23,8 +23,7 @@ Open Data Publishing Priority [Note: department input is important factor for es
 # 3. Open Data Policy
 ## 3.1 Definition 
 ## 3.2 Publication Process 
-[Section 3.2.2 Publishing-Publish on City of Boston Data Portal or through other methods subject to compliance with applicable rules API [Be sure to reference API compliance if publishing by non-Boston Open Data Portal method]
-(https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-322-publishing)
+[Section 3.2.2 Publishing-Publish on City of Boston Data Portal or through other methods subject to compliance with applicable rules API-Be sure to reference API compliance if publishing by non-Boston Open Data Portal method] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-322-publishing)
 ### 3.2.1 Receiving Requests
 ### 3.2.2 Reviewing & Prioritizing Requests With Departments
 ### 3.2.3 Legal & Regulatory Review
