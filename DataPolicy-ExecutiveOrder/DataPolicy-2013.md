@@ -5,17 +5,21 @@ From: http://openinnovationframework.org/
 
 Section 1: Introduction and Overview
 
-[Placeholder]
+[Placeholder] 
+[Section 1.] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-1-governance-and-management-of-municipal-data)
 
 Section 2: Open Data Policy
+
+[Section 2.3] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-23-classification-as-open-data)
+[Section 3] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-3-city-of-boston-open-data-policy)
 
 Data Classification Guidance
 
 http://openinnovationframework.org/data-classification-guidance/
 
-Data Publishing Guidance
+Data Publishing Guidance [Section 2.3.2] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-232-apply-open-data-standards-guidance)
 
-Determine the Publishing Priority of Open Data
+Determine the Publishing Priority of Open Data [Section 2.3.1] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-231-open-data-publishing-priority)
 
 - Each department shall determine the publishing priority status of it’s Open Data.
 
