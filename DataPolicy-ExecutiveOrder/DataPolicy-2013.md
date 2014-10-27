@@ -43,9 +43,9 @@ compound value.
 
 Action: Publication Priority Form
 
-Publishing Workflow and Approval Chain
+Publishing Workflow and Approval Chain [Section 2] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-2-workflow-and-approval-chains)
 
-- Each department head shall confirm or update the names and contact information for the individuals noted on the Open Data Manager business and legal points of contact roster for their department.
+- Each department head shall confirm or update the names and contact information for the individuals noted on the Open Data Manager business and legal points of contact roster for their department. 
 
 - Each department head shall conduct an initial assessment of the types and amounts of data sets for which it is responsible. This assessment shall include:
 
@@ -66,13 +66,14 @@ Expedite publishing of at least two open data sets
 
 The experience gained by publishing some open data quickly will be an important source of information about the relevant data types and classification needs of each department. The process of publishing at least a couple of open data sets will also clarify or confirm the essential business, legal and technical elements relevant to the open data publishing workflow and approval chain for each department.
 
-Action: Initial Assessment of Each Respective Department’s Data Types and Amounts
+Action: Initial Assessment of Each Respective Department’s Data Types and Amounts 
 
-Outreach to stakeholder communities
+Outreach to stakeholder communities 
 
 - The business contact for Open Data of each department shall endeavor to identify the relevant stakeholder communities that will use and rely upon the publication of each open data set of their department, including identification of a simple, effective and repeatable means for notifying stakeholder communities of the availability of relevant published open data or the additions to or other updating of such open data.
 
-Standards and Formats
+Standards and Formats 
+[Section 3.2] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-32-standards)
 
 http://openinnovationframework.org/standardsandformats
 
@@ -84,11 +85,12 @@ Identity and Access Management Guidance (IAM)
 
 http://openinnovationframework.org/opendatapolicyiam
 
-Open Data Publishing of Official City Materials and Legal Notices
+Open Data Publishing of Official City Materials and Legal Notices 
 
 http://openinnovationframework.org/boston-data-policy/opendatapublishingofficialcitymaterials-md/
 
 Section 3. Protected Data Policy
+[Section 4] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-4-city-of-boston-protected-data-policy)
 
 http://openinnovationframework.org/boston-data-policy/protecteddatapolicy-md/
 
@@ -98,9 +100,11 @@ http://openinnovationframework.org/boston-data-policy/protecteddataiam-md/
 
 Section 4. Legal Disclaimers and Other Terms
 
+
 http://openinnovationframework.org/legaldisclaimers-md/
 
 Section 5. Definitions and Glossary
+[Section 5] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-5-definitions)
 
 [Placeholder terms]
 
