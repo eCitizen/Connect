@@ -3,7 +3,7 @@ Data Policy
 # 1. About the Policy 
 # 2. Roles & Responsibilities 
 ## 2.1 Chief Information Officer 
-([Section 2. CIO Determines open data and publishing priority of public records](https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-11-scope))  
+([Section 2. CIO Determines open data and publishing priority of public records](https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-11-scope)) [Section 2.2.2. CIO Approves Technology] (https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-222-cio-approves-technology)
 ## 2.2 Data Manager 
 ### 2.2.1 Determining Standards & Formats
 ### 2.2.2 Increasing Accessibility Through Documentation
