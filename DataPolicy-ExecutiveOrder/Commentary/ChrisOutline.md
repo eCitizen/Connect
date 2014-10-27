@@ -10,7 +10,8 @@ Data Policy
 ### 2.2.3 Promoting on Interoperability
 ### 2.2.4 Maintaining the Data Manifest
 ## 2.3 City Departments 
-([https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-231-open-data-publishing-priority)
+Section 2.3.1 Open Data Publishing Priority
+[Open Data Publishing Priority [Note: department input is important factor for establishing publishing priority] [CIO determines whether data is “appropriate for publish disclosure”] {Section 2b} [Note: CIO may refer to Corporate Counsel Legal Issues for Publishing] [Apply public records and open data publishing guidance] {Section 2b}](https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/DataPolicy.md#section-231-open-data-publishing-priority)
 ### 2.3.1 All Departments
 ### 2.3.2 Procurement Office
 ## 2.4 Corporation Counsel
